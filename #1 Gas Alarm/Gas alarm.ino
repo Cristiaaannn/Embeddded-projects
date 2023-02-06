@@ -6,7 +6,7 @@
 // Mentions 2: The code should have contained a block where after the alarm was started, with a delay, the set-up is shut off (In order to not provoke an explosion).
 // Since I am not really using it and this is was just for presentation, I didn't include it here. (Otherwise I should have reset the arduino every time I was pressing the button and the ports would have gone crazy each time)
 // Author: Cristian Mirea ; cristianmirea@icloud.com
-// ** Thank you for reading through this line :) .
+// ** Thank you for reading through this line :) . 
 
 
 int switchState = 0;
