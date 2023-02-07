@@ -8,5 +8,5 @@ Also, my idols are Steve Wozniak and Steve Jobs in terms of career and technolog
 I know it isn't much, but I am extremely committed to learn and grow, I just need a chance ( I took many courses, spent many months on learning platforms, still the only way to learn professional stuff and is to have a professional activity ).
 Remember what I was saying on the 3rd line? Thank you!
 
-Best regards,
+Best regards, 
 Cristian Mirea
