@@ -6,7 +6,7 @@ This repo is what I have done so far on my own to learn embedded programming.
 I'm learning embedded C because I am passionate about how software can improve and impact things that are surrounding us.                               
 Also, my idols are Steve Wozniak and Steve Jobs in terms of career and technology mindset. ( Just to understand my science orientation )                            
 I know it isn't much, but I am extremely committed to learn and grow, I just need a chance ( I took many courses, spent many months on learning platforms, still the only way to learn professional stuff and is to have a professional activity ).                  
-Remember what I was saying on the 3rd line? Thank you! Time is precious and I fully appreciate your effort.           
+Remember what I was saying on the 2nd line? Thank you! Time is precious and I fully appreciate your effort.           
 
 Best regards,                                                     
 Cristian Mirea
