@@ -57,7 +57,6 @@
     - BLINK_SUCCESS: Blinks 2 times slowly, 1 blink per second
     - BLINK_ERROR: Blinks rapidly, pauses, Blinks rapidly, pauses, Blinks rapidly
   
-  You may use this code and all of the diagrams and documentations completely free. Enjoy!
   
   Author: Cristian Mirea , cristianmirea@icloud.com
 
